@@ -60,7 +60,7 @@ const IndexPage = () => (
             </span>
           </li>
           <li>
-            <span className="icon solid fa-lungs major style3">
+            <span className="icon  fa-lungs major style3">
               <span className="label">tlen</span>
             </span>
           </li>
