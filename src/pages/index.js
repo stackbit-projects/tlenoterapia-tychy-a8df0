@@ -129,7 +129,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            {config.info3}
+            {config.info5}
           </h2>
           <p>
             {config.info33}
