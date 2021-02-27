@@ -100,9 +100,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Augue eleifend aliquet
-            <br />
-            sed condimentum
+            [info]
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
