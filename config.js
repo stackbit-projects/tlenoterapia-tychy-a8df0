@@ -23,7 +23,6 @@ module.exports = {
       'Zwiększone ciśnienie tlenu aktywizuje uśpione komórki macierzyste i pobudza je do działań naprawczych. Zaczynają się one przemieszczać do uszkodzonych tkanek powodując ich głęboką odbudowę.',
       'Hiperbaryczna terapia tlenowa to naturalna metoda dbania o urodę.',
       'zwiększenie masy kostnej i masy mięśniowej',
-
 'wzmocnienie funkcjonowania układu odpornościowego, oddechowego i pokarmowego
 
 działanie przeciwbólowe i przeciwzapalne
