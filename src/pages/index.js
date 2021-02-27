@@ -56,7 +56,7 @@ const IndexPage = () => (
           </li>
           <li>
             <span className="icon fa-heart major style2">
-              <span className="label">Ipsum</span>
+              <span className="label"></span>
             </span>
           </li>
           <li>
