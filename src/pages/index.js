@@ -126,6 +126,7 @@ const IndexPage = () => (
         //   const { style, icon, name, url } = social;
           return (
             <li >
+                {text}
               {/* <a href={url} className={`icon ${style} ${icon}`}> */}
                 {/* <span className="label">{name}</span> */}
               {/* </a> */}
