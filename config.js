@@ -44,7 +44,7 @@ module.exports = {
   zastosowania6: 'Medycyna sportowa',
   zastosowania66: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.',
   zastosowania7: 'Medycyna estetyczna',
-  zas
+  zastosowania77: ''
 
   // social
   socialLinks: [
