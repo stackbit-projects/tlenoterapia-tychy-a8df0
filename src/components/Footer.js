@@ -15,12 +15,12 @@ export default function Footer() {
           );
         })}
       </ul>
-      <ul className="copyright">
+      {/* <ul className="copyright">
         <li>&copy; Spectral</li>
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
         </li>
-      </ul>
+      </ul> */}
     </footer>
   );
 }
