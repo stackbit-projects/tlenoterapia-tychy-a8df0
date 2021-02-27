@@ -52,7 +52,7 @@ module.exports = {
 // kontakt
 kontakttel: '516-555-597',
 kontaktul: '' ul. Legionów Polskich 40',
-kontaktm: ' 43-100 Tychy',
+kontaktty: ' 43-100 Tychy',
 
   // social
   socialLinks: [
