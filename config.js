@@ -38,7 +38,7 @@ module.exports = {
   zastosowania3: 'Dermatologia',
   zastosowania31: 'Terapia ma zastosowanie w leczeniu trądziku, łuszczycy, atopowego zapalenia skóry, egzemy oraz trądziku różowatego. Redukuje wszelkie ogniska zapalne.',
   zastosowania4: 'Neurologia',
-  zastosowania44: 'Ma zastosowanie w porażeniach mózgowych i pourazowych uszkodzeniach mózgu, powstałych w wyniku udaru lub wylewu. Ożywia i pobudza uśpione komórki, podnosi koncentrację.',
+  zastosowania41: 'Ma zastosowanie w porażeniach mózgowych i pourazowych uszkodzeniach mózgu, powstałych w wyniku udaru lub wylewu. Ożywia i pobudza uśpione komórki, podnosi koncentrację.',
   zastosowania5: 'Stomatologia',
   zastosowania55: 'Pomaga w leczeniu ran po zabiegach chirurgicznych, poprawia ukrwienie w uszkodzonej tkance, stymuluje proces gojenia oraz skraca czas rekonwalescencji.',
   zastosowania6: 'Medycyna sportowa',
