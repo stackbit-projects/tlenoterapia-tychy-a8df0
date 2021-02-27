@@ -27,6 +27,7 @@ module.exports = {
       'działanie przeciwbólowe i przeciwzapalne',
       'poprawa mobilności ruchowej',
       'wzmożenie koncentracji i zapamiętywania',
+  ]
   info5: 'Komora hiperbaryczna',
   info55: 'Komora hiperbaryczna',
   // social
