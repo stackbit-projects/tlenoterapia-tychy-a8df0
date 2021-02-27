@@ -21,7 +21,7 @@ module.exports = {
   info4:
   info44:
   info5:
-  info
+  info55:
   // social
   socialLinks: [
     {
