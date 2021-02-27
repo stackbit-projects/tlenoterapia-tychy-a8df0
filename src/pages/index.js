@@ -137,7 +137,7 @@ const IndexPage = () => (
           </p> */}
         </header>
         <ul className="features">
-          <li className="icon fa-paper-plane">
+          <li className="icon fa-heartbeat">
             <h3>{config.zastosowania1}</h3>
             <p>
               {config.zastosowania11}
