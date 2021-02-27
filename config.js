@@ -36,7 +36,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-instagram',
       name: 'Instagram',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://www.instagram.com/tlenoterapia.tychy/',
     },
     {
       style: 'brands',
