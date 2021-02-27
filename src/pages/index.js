@@ -202,7 +202,7 @@ const IndexPage = () => (
 					<h4>Skontaktuj się z nami</h4>
                     <p>{config.kontakttel}</p>
                     <p>{config.kontaktul}</p>
-                    <p>{config.kontakt}</p>
+                    <p>{config.kontaktty}</p>
 					<form method="post" action="#">
 						<div className="row gtr-uniform">
 							<div className="col-6 col-12-xsmall">
