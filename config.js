@@ -20,7 +20,8 @@ module.exports = {
   info33: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
   info4: 'Korzystne działanie tlenoterapii' ,
   info44: [
-      'Zwiększone ciśnienie tlenu aktywizuje uśpione komórki macierzyste i pobudza je do działań naprawczych. Zaczynają się one przemieszczać do uszkodzonych tkanek powodując ich głęboką odbudowę.
+      'Zwiększone ciśnienie tlenu aktywizuje uśpione komórki macierzyste i pobudza je do działań naprawczych. Zaczynają się one przemieszczać do uszkodzonych tkanek powodując ich głęboką odbudowę.',
+      ''
 
 Hiperbaryczna terapia tlenowa to naturalna metoda dbania o urodę.
 
