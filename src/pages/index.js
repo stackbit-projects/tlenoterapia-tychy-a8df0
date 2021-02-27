@@ -110,21 +110,7 @@ const IndexPage = () => (
         </div>
       </section>
 
-      <section className="spotlight">
-        <div className="image">
-          <img src={pic3} alt="" />
-        </div>
-        <div className="content">
-          <h2>
-            {config.info4}
-          </h2>
-          <p>
-            {/* {config.info44} */}
-          </p>
-
-      
-        </div>
-      </section>
+     
 
       <section className="spotlight">
         <div className="image">
