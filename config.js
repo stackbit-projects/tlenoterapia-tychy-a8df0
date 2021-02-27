@@ -14,7 +14,7 @@ module.exports = {
   socialLinks: [
     {
       style: 'brands',
-      icon: 'fa-github',
+      icon: 'fa-instagram',
       name: 'Github',
       url: 'https://github.com/anubhavsrivastava',
     },
