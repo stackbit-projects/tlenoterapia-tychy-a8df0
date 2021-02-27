@@ -42,13 +42,13 @@ module.exports = {
   zastosowania5: 'Stomatologia',
   zastosowania51: 'Pomaga w leczeniu ran po zabiegach chirurgicznych, poprawia ukrwienie w uszkodzonej tkance, stymuluje proces gojenia oraz skraca czas rekonwalescencji.',
   zastosowania6: 'Medycyna sportowa',
-  zastosowania66: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.',
+  zastosowania61: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.',
   zastosowania7: 'Medycyna estetyczna',
-  zastosowania77: 'Działa stymulująco na fibroblasty, odpowiedzialne za syntezę kolagenu i elastyny, czyli włókien zapewniających elastyczność skórze.',
+  zastosowania71: 'Działa stymulująco na fibroblasty, odpowiedzialne za syntezę kolagenu i elastyny, czyli włókien zapewniających elastyczność skórze.',
   zastosowania8: 'Onkologia',
-  zastosowania88: 'Sprzyja rewitalizacji komórek i zapobiega dalszym uszkodzeniom. Oczyszcza organizm z toksyn i metali ciężkich, obniża poziom białka C-reaktywnego.',
+  zastosowania81: 'Sprzyja rewitalizacji komórek i zapobiega dalszym uszkodzeniom. Oczyszcza organizm z toksyn i metali ciężkich, obniża poziom białka C-reaktywnego.',
   zastosowania9: 'Gastrologia',
-  zastosowania99: 'Poprawia ukrwienie ścian jelit i redukuje ilość gazów jelitowych. Wspiera regenerację stanów zapalnych, np. jelita cienkiego, jelita grubego, trzustki. Zabija szkodliwe bakterie i wirusy.',
+  zastosowania91: 'Poprawia ukrwienie ścian jelit i redukuje ilość gazów jelitowych. Wspiera regenerację stanów zapalnych, np. jelita cienkiego, jelita grubego, trzustki. Zabija szkodliwe bakterie i wirusy.',
 
 
   // social
