@@ -21,7 +21,7 @@ module.exports = {
   info4: 'Korzystne działanie tlenoterapii' ,
   info44: '',
   info5: '',
-  info55: '',
+  info55: 'Komora hiperbaryczna',
   // social
   socialLinks: [
     {
