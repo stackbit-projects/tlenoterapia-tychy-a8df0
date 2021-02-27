@@ -42,7 +42,7 @@ module.exports = {
   zastosowania5: 'Stomatologia',
   zastosowania55: 'Pomaga w leczeniu ran po zabiegach chirurgicznych, poprawia ukrwienie w uszkodzonej tkance, stymuluje proces gojenia oraz skraca czas rekonwalescencji.',
   zastosowania6: 'Medycyna sportowa',
-  zas
+  zastosowania66: ''
 
   // social
   socialLinks: [
