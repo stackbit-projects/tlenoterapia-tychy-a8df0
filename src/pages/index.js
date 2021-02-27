@@ -51,7 +51,7 @@ const IndexPage = () => (
         <ul className="icons major">
           <li>
             <span className="icon fa-heart major style1">
-              <span className="label">Lorem</span>
+              <span className="label">Odporno</span>
             </span>
           </li>
           <li>
