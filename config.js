@@ -11,7 +11,7 @@ module.exports = {
   heading: 'Oxy-Rehab Tlenoterapia ',
   subHeading: 'Zapraszamy na sesje tlenowe w Tychach ',
   explore: 'Dowiedz się więcej ',
-  tekst1: 'Nasza komora hiperbaryczna wykorzystuje ciśnienie 1,3 ATA. Jest to nieiwazyjna metoda wprowadzania tlenu o stężeniu 93%, czyli o 30% wyższym niż ciśnienie atmosferyczne.'
+  tekst1: 'Nasza komora hiperbaryczna wykorzystuje ciśnienie 1,3 ATA. Jest to nieiwazyjna metoda wprowadzania tlenu o stężeniu 93%, czyli o 30% wyższym niż ciśnienie atmosferyczne.',
     // social
   socialLinks: [
     {
