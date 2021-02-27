@@ -121,20 +121,7 @@ const IndexPage = () => (
             {/* {config.info44} */}
           </p>
 
-      <ul>
-        {config.info44.map(text => {
-        //   const { style, icon, name, url } = social;
-          return (
-            <li >
-                {text}
-              {/* <a href={url} className={`icon ${style} ${icon}`}> */}
-                {/* <span className="label">{name}</span> */}
-              {/* </a> */}
-            </li>
-          );
-        })}
-      </ul>
-
+      
         </div>
       </section>
 
