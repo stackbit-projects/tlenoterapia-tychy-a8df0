@@ -94,7 +94,34 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
-      
+       <section id="two" className="wrapper alt style2">
+      <section className="spotlight">
+        <div className="image">
+          <img src={pic1} alt="" />
+        </div>
+        <div className="content">
+          <h2>
+            {config.info1}
+          </h2>
+          <p>
+            {config.info11}
+          </p>
+        </div>
+      </section>
+      <section className="spotlight">
+        <div className="image">
+          <img src={pic2} alt="" />
+        </div>
+        <div className="content">
+          <h2>
+            {config.info2}
+          </h2>
+          <p>
+            {config.info22}
+          </p>
+        </div>
+      </section>
+   
       <section className="spotlight">
         <div className="image">
           <img src={pic3} alt="" />
