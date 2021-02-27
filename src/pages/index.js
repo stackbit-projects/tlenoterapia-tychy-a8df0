@@ -123,7 +123,7 @@ const IndexPage = () => (
 
       <ul className="icons">
         {config.info44.map(text => {
-          const { style, icon, name, url } = social;
+        //   const { style, icon, name, url } = social;
           return (
             <li key={url}>
               <a href={url} className={`icon ${style} ${icon}`}>
