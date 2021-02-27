@@ -72,7 +72,7 @@ kontaktty: ' 43-100 Tychy',
       style: 'solid',
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailgabinet@tlenoterapiatychy.pl',
+      url: 'mailto: gabinet@tlenoterapiatychy.pl',
     },
   ],
 };
