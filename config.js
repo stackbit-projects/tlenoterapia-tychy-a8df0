@@ -17,7 +17,7 @@ module.exports = {
   info2: 'Zyskaj wsparcie w trakcie aktualnej rehabilitacji',
   info22: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!',
   info3: 'Jak działa tlenoterapia?',
-  info33: ''
+  info33: 'W odpowiedzi na pytania, które zadaje zdrowie!'
     // social
   socialLinks: [
     {
