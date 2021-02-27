@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'tleoteriapia tychyGABINET TELNOTARAPII TYCHY', // <title>
+  siteTitle: 'tleoteriapia tychy', // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
