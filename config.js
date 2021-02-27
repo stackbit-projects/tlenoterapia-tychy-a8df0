@@ -41,7 +41,7 @@ module.exports = {
   zastosowania44: 'Ma zastosowanie w porażeniach mózgowych i pourazowych uszkodzeniach mózgu, powstałych w wyniku udaru lub wylewu. Ożywia i pobudza uśpione komórki, podnosi koncentrację.',
   zastosowania5: 'Stomatologia',
   zastosowania55: 'Pomaga w leczeniu ran po zabiegach chirurgicznych, poprawia ukrwienie w uszkodzonej tkance, stymuluje proces gojenia oraz skraca czas rekonwalescencji.',
-  zastosowania
+  zastosowania6: ''
 
   // social
   socialLinks: [
