@@ -19,7 +19,19 @@ module.exports = {
   info3: 'Jak działa tlenoterapia?',
   info33: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
   info4: 'Korzystne działanie tlenoterapii' ,
-  info44: '',
+  info44: 'Zwiększone ciśnienie tlenu aktywizuje uśpione komórki macierzyste i pobudza je do działań naprawczych. Zaczynają się one przemieszczać do uszkodzonych tkanek powodując ich głęboką odbudowę.
+
+Hiperbaryczna terapia tlenowa to naturalna metoda dbania o urodę.
+
+zwiększenie masy kostnej i masy mięśniowej
+
+wzmocnienie funkcjonowania układu odpornościowego, oddechowego i pokarmowego
+
+działanie przeciwbólowe i przeciwzapalne
+
+poprawa mobilności ruchowej
+
+wzmożenie koncentracji i zapamiętywania',
   info5: 'Komora hiperbaryczna',
   info55: 'Komora hiperbaryczna',
   // social
