@@ -94,6 +94,7 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
+      
       <section className="spotlight">
         <div className="image">
           <img src={pic3} alt="" />
