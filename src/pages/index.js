@@ -120,6 +120,20 @@ const IndexPage = () => (
           <p>
             {config.info44}
           </p>
+
+      <ul className="icons">
+        {config.socialLinks.map(social => {
+          const { style, icon, name, url } = social;
+          return (
+            <li key={url}>
+              <a href={url} className={`icon ${style} ${icon}`}>
+                <span className="label">{name}</span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+
         </div>
       </section>
 
