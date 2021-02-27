@@ -29,7 +29,7 @@ module.exports = {
       'wzmożenie koncentracji i zapamiętywania',
   ],
   info5: 'Komora hiperbaryczna',
-  info55: 'Komora hiperbaryczna',
+  info55: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!',
   // social
   socialLinks: [
     {
