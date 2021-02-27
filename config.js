@@ -48,7 +48,7 @@ module.exports = {
   zastosowania8: 'Onkologia',
   zastosowania88: 'Sprzyja rewitalizacji komórek i zapobiega dalszym uszkodzeniom. Oczyszcza organizm z toksyn i metali ciężkich, obniża poziom białka C-reaktywnego.',
   zastosowania9: 'Gastrologia',
-  zast
+  zastosowania99: ''
 
   // social
   socialLinks: [
