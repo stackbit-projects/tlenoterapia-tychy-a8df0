@@ -35,7 +35,7 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            {config.tekst1},
+            {config.tekst1}
             <br />
             eget augue amet aliquet nisl cep donec
           </h2>
