@@ -197,6 +197,7 @@ const IndexPage = () => (
 
     <section id="cta" className="wrapper style4">
       <div className="inner">
+          
         {/* <header>
           <h2>Arcue ut vel commodo</h2>
           <p>
