@@ -39,7 +39,7 @@ const IndexPage = () => (
             {/* <br /> */}
             {config.info4}
           </h2>
-          <ul>
+          <ul style=>
         {config.info44.map(text => {
         //   const { style, icon, name, url } = social;
           return (
