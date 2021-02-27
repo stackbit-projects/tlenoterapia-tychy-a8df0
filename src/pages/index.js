@@ -132,7 +132,7 @@ const IndexPage = () => (
             {config.info5}
           </h2>
           <p>
-            {config.info33}
+            {config.info55}
           </p>
         </div>
       </section>
