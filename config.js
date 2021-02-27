@@ -24,7 +24,6 @@ module.exports = {
       'Hiperbaryczna terapia tlenowa to naturalna metoda dbania o urodę.',
       'zwiększenie masy kostnej i masy mięśniowej',
       'wzmocnienie funkcjonowania układu odpornościowego, oddechowego i pokarmowego',
-
 działanie przeciwbólowe i przeciwzapalne
 
 poprawa mobilności ruchowej
