@@ -44,7 +44,6 @@ const IndexPage = () => (
           return (
             <li >
                 {text}
-              
             </li>
           );
         })}
