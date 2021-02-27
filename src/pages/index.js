@@ -179,7 +179,7 @@ const IndexPage = () => (
               {config.zastosowania71}
             </p>
           </li>
-           <li className="icon fa-flag">
+           <li className="icon fa-heart">
             <h3>{config.zastosowania8}</h3>
             <p>
               {config.zastosowania81}
