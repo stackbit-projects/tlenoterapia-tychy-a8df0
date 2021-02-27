@@ -31,6 +31,7 @@ module.exports = {
   info5: 'Komora hiperbaryczna',
   info55: 'Nasza komora hiperbaryczna wykorzystuje ciśnienie 1,3 ATA. Jest to nieiwazyjna metoda wprowadzania tlenu o stężeniu 93%, czyli o 30% wyższym niż ciśnienie atmosferyczne.',
   // social
+  
   socialLinks: [
     {
       style: 'brands',
