@@ -18,7 +18,7 @@ module.exports = {
   info22: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!',
   info3: 'Jak działa tlenoterapia?',
   info33: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
-  info4:
+  info4: ''
   info44:
   info5:
   info55:
