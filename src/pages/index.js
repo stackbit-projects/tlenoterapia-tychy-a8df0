@@ -108,7 +108,6 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
-      <section className="spotlight"></section>
     </section>
 
     <section id="three" className="wrapper style3 special">
