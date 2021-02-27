@@ -26,8 +26,7 @@ module.exports = {
       'wzmocnienie funkcjonowania układu odpornościowego, oddechowego i pokarmowego',
       'działanie przeciwbólowe i przeciwzapalne',
       'poprawa mobilności ruchowej',
-
-wzmożenie koncentracji i zapamiętywania',
+      'wzmożenie koncentracji i zapamiętywania',
   info5: 'Komora hiperbaryczna',
   info55: 'Komora hiperbaryczna',
   // social
