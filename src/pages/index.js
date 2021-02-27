@@ -122,7 +122,7 @@ const IndexPage = () => (
           </p>
 
       <ul className="icons">
-        {config.socialLinks.map(social => {
+        {config.info44.map(text => {
           const { style, icon, name, url } = social;
           return (
             <li key={url}>
