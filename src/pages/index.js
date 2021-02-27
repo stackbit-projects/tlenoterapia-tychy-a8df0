@@ -140,8 +140,7 @@ const IndexPage = () => (
           <li className="icon fa-paper-plane">
             <h3>{config.zastosowania1}</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              {config.zastosowania11}
             </p>
           </li>
           <li className="icon solid fa-laptop">
