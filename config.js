@@ -15,7 +15,7 @@ module.exports = {
     {
       style: 'brands',
       icon: 'fa-instagram',
-      name: 'GithubInstagram',
+      name: 'Instagram',
       url: 'https://github.com/anubhavsrivastava',
     },
     {
