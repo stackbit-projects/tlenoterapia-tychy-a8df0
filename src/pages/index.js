@@ -128,13 +128,13 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>Zastosowania medyczne</h2>
-          <p>
+          {/* <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
             eleifend
             <br />
             fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
             ullamcorper.
-          </p>
+          </p> */}
         </header>
         <ul className="features">
           <li className="icon fa-paper-plane">
