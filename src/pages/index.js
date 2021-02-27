@@ -41,7 +41,6 @@ const IndexPage = () => (
           </h2>
           <ul className="align-left">
         {config.info44.map(text => {
-        //   const { style, icon, name, url } = social;
           return (
             <li >
                 {text}
