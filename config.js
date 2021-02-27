@@ -36,7 +36,8 @@ module.exports = {
   zastosowania2: 'Ortopedia',
   zastosowania22: 'Poprawia przepływ krwi w uszkodzonych kończynach, zwiększa ciśnienie tlenu w kościach powodując ustępowanie stanu zapalnego kości i szpiku.',
   zastosowania3: 'Dermatologia'
-  zastosowania33: ""
+  zastosowania33: 'Terapia ma zastosowanie w leczeniu trądziku, łuszczycy, atopowego zapalenia skóry, egzemy oraz trądziku różowatego. Redukuje wszelkie ogniska zapalne.',
+  
   // social
   socialLinks: [
     {
