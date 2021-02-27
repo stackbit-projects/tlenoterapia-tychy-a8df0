@@ -48,7 +48,8 @@ module.exports = {
   zastosowania8: 'Onkologia',
   zastosowania88: 'Sprzyja rewitalizacji komórek i zapobiega dalszym uszkodzeniom. Oczyszcza organizm z toksyn i metali ciężkich, obniża poziom białka C-reaktywnego.',
   zastosowania9: 'Gastrologia',
-  zastosowania99: 'Poprawia ukrwienie ścian jelit i redukuje ilość gazów jelitowych. Wspiera regenerację stanów zapalnych, np. jelita cienkiego, jelita grubego, trzustki. Zabija szkodliwe bakterie i wirusy.'
+  zastosowania99: 'Poprawia ukrwienie ścian jelit i redukuje ilość gazów jelitowych. Wspiera regenerację stanów zapalnych, np. jelita cienkiego, jelita grubego, trzustki. Zabija szkodliwe bakterie i wirusy.',
+  
 
   // social
   socialLinks: [
