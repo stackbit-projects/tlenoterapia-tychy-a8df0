@@ -35,9 +35,9 @@ module.exports = {
   zastosowania11: 'Korzystny wpływ na dolegliwości o charakterze wieńcowym. Zmniejsza nasilenie objawów niewydolności serca, zapobiega zawałom mięśnia sercowego, reguluje ciśnienie tętnicze.',
   zastosowania2: 'Ortopedia',
   zastosowania22: 'Poprawia przepływ krwi w uszkodzonych kończynach, zwiększa ciśnienie tlenu w kościach powodując ustępowanie stanu zapalnego kości i szpiku.',
-  zastosowania3: 'Dermatologia'
+  zastosowania3: 'Dermatologia',
   zastosowania33: 'Terapia ma zastosowanie w leczeniu trądziku, łuszczycy, atopowego zapalenia skóry, egzemy oraz trądziku różowatego. Redukuje wszelkie ogniska zapalne.',
-  
+
   // social
   socialLinks: [
     {
