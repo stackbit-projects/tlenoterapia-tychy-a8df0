@@ -37,7 +37,7 @@ const IndexPage = () => (
           <h2>
             {config.tekst11}
             <br />
-            {eget augue amet aliquet nisl cep donec}
+            {config.i}
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
