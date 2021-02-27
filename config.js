@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'TLENOTERIAPIA TYCHY',
-  subHeading: 'Zapraszamy na sesje tlenowe  ',
+  subHeading: 'Zapraszamy na sesje tlenowe w Tychcach ',
   // social
   socialLinks: [
     {
