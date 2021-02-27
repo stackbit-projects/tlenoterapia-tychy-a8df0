@@ -21,7 +21,7 @@ module.exports = {
     {
       style: 'brands',
       icon: 'fa-facebook',
-      name: 'Twitter',
+      name: 'Facebook',
       url: 'https://twitter.com/onlyanubhav',
     },
     {
