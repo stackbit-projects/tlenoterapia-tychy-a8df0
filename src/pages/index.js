@@ -79,8 +79,7 @@ const IndexPage = () => (
             
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            {config.info11}
           </p>
         </div>
       </section>
