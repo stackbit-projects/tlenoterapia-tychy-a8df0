@@ -25,8 +25,7 @@ module.exports = {
       'zwiększenie masy kostnej i masy mięśniowej',
       'wzmocnienie funkcjonowania układu odpornościowego, oddechowego i pokarmowego',
       'działanie przeciwbólowe i przeciwzapalne',
-
-poprawa mobilności ruchowej
+'poprawa mobilności ruchowej
 
 wzmożenie koncentracji i zapamiętywania',
   info5: 'Komora hiperbaryczna',
