@@ -87,7 +87,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Tortor dolore feugiat
+            {config.info2}
             <br />
             elementum magna
           </h2>
