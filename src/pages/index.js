@@ -50,7 +50,7 @@ const IndexPage = () => (
         </header>
         <ul className="icons major">
           <li>
-            <span className="icon fa-heartbeat major style1">
+            <span className="icon solid fa-heartbeat major style1">
               <span className="label">Odpornosc</span>
             </span>
           </li>
