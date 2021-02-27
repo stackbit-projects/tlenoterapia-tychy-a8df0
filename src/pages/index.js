@@ -247,7 +247,7 @@ const IndexPage = () => (
 							<div className="col-12">
 								<ul className="actions">
 									<li><input type="submit" value="Wyślij wiadomoś" className="primary" /></li>
-									<li><input type="reset" value="Reset" /></li>
+									<li><input type="reset" value="Wyczyś" /></li>
 								</ul>
 							</div>
 						</div>
