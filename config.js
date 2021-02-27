@@ -46,7 +46,7 @@ module.exports = {
   zastosowania7: 'Medycyna estetyczna',
   zastosowania77: 'Działa stymulująco na fibroblasty, odpowiedzialne za syntezę kolagenu i elastyny, czyli włókien zapewniających elastyczność skórze.',
   zastosowania8: 'Onkologia',
-  zastosowania88: 
+  zastosowania88: ''
 
   // social
   socialLinks: [
