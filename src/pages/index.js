@@ -100,7 +100,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            [info]
+            {config.info3}
           </h2>
           <p>
             Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
