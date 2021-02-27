@@ -217,7 +217,7 @@ const IndexPage = () => (
 									<option value="1">Human Resources</option>
 								</select>
 							</div> */}
-							<div className="col-4 col-12-small">
+							{/* <div className="col-4 col-12-small">
 								<input type="radio" id="demo-priority-low" name="demo-priority" defaultChecked />
 								<label htmlFor="demo-priority-low">Low</label>
 							</div>
@@ -228,7 +228,7 @@ const IndexPage = () => (
 							<div className="col-4 col-12-small">
 								<input type="radio" id="demo-priority-high" name="demo-priority" />
 								<label htmlFor="demo-priority-high">High</label>
-							</div>
+							</div> */}
 							<div className="col-6 col-12-small">
 								<input type="checkbox" id="demo-copy" name="demo-copy" />
 								<label htmlFor="demo-copy">Email me a copy</label>
