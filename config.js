@@ -10,7 +10,8 @@ module.exports = {
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Oxy-Rehab TlenoterapiaTLENOTERIAPIA TYCHY',
   subHeading: 'Zapraszamy na sesje tlenowe w Tychach ',
-  explore: 'dowiedz się więcej ',  // social
+  explore: 'dowiedz się więcej ',
+    // social
   socialLinks: [
     {
       style: 'brands',
