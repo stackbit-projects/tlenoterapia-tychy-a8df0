@@ -118,7 +118,7 @@ const IndexPage = () => (
             {config.info4}
           </h2>
           <p>
-            {config.info44}
+            {/* {config.info44} */}
           </p>
 
       <ul>
