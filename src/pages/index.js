@@ -201,7 +201,7 @@ const IndexPage = () => (
 				<section>
 					<h4>Skontaktuj się z nami</h4>
                     <p>
-                    {config.kontakttel}</p>
+                    <li{config.kontakttel}</p>
                     <p>{config.kontaktul}</p>
                     <p>{config.kontaktty}</p>
 					<form method="post" action="#">
