@@ -138,7 +138,7 @@ const IndexPage = () => (
         </header>
         <ul className="features">
           <li className="icon fa-paper-plane">
-            <h3>{</h3>
+            <h3>{}</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
