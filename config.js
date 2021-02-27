@@ -22,7 +22,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/Tlenoterapiatychy/',
+      url: 'https://www.facebook.com/Tlenoterapiatychy',
     },
     {
       style: 'solid',
