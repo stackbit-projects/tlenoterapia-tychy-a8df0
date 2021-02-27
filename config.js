@@ -12,7 +12,7 @@ module.exports = {
   subHeading: 'Zapraszamy na sesje tlenowe w Tychach ',
   explore: 'Dowiedz się więcej ',
   tekst1: 'Nasza komora hiperbaryczna wykorzystuje ciśnienie 1,3 ATA. Jest to nieiwazyjna metoda wprowadzania tlenu o stężeniu 93%, czyli o 30% wyższym niż ciśnienie atmosferyczne.',
-  info1: 'Wzmocnij odporność swojego organizmu!'
+  info1: 'Wzmocnij odporność swojego organizmu!',
     // social
   socialLinks: [
     {
