@@ -103,8 +103,7 @@ const IndexPage = () => (
             {config.info3}
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            {config.info33}
           </p>
         </div>
       </section>
