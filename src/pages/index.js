@@ -173,6 +173,12 @@ const IndexPage = () => (
               {config.zastosowania61}
             </p>
           </li>
+           <li className="icon fa-flag">
+            <h3>{config.zastosowania6}</h3>
+            <p>
+              {config.zastosowania61}
+            </p>
+          </li>
         </ul>
       </div>
     </section>
