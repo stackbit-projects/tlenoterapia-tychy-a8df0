@@ -32,7 +32,8 @@ module.exports = {
   info55: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!',
   //zastosowania
   zastosowania1: 'Kardiologia',
-  zastosowania11: 'Korzystny wpływ na dolegliwości o charakterze wieńcowym. Zmniejsza nasilenie objawów niewydolności serca, zapobiega zawałom mięśnia sercowego, reguluje ciśnienie tętnicze.'
+  zastosowania11: 'Korzystny wpływ na dolegliwości o charakterze wieńcowym. Zmniejsza nasilenie objawów niewydolności serca, zapobiega zawałom mięśnia sercowego, reguluje ciśnienie tętnicze.',
+  zastosowania2: ''
   // social
   socialLinks: [
     {
