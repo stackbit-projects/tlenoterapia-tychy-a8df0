@@ -15,7 +15,7 @@ module.exports = {
   info1: 'Wzmocnij odporność swojego organizmu!',
   info11: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
   info2: 'Zyskaj wsparcie w trakcie aktualnej rehabilitacji',
-  info22: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!'
+  info22: 'Tlenoterapia hiperbaryczna wspiera proces aktualnie prowadzonych terapii i rehabilitacji. Przyśpiesz oczekiwany rezultat zdrowia, aby Twój organizm funkcjonował wydajniej!',
     // social
   socialLinks: [
     {
