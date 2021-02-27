@@ -156,7 +156,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="icon solid fa-headphones-alt">
-            <h3>{config.zastosowania1}</h3>
+            <h3>{config.zastosowania4}</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
