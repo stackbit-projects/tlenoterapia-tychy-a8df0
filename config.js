@@ -14,6 +14,7 @@ module.exports = {
   tekst1: 'Nasza komora hiperbaryczna wykorzystuje ciśnienie 1,3 ATA. Jest to nieiwazyjna metoda wprowadzania tlenu o stężeniu 93%, czyli o 30% wyższym niż ciśnienie atmosferyczne.',
   info1: 'Wzmocnij odporność swojego organizmu!',
   info11: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
+  info2: 'Zyskaj wsparcie w trakcie aktualnej rehabilitacji'
     // social
   socialLinks: [
     {
