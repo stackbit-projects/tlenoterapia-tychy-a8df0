@@ -74,7 +74,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            {confi}
+            {config.info1}
             <br />
             sed ullamcorper
           </h2>
