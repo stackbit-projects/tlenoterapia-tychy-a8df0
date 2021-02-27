@@ -39,13 +39,20 @@ const IndexPage = () => (
             {/* <br /> */}
             {config.info4}
           </h2>
-          <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
-            <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
-          </p>
+          <ul>
+        {config.info44.map(text => {
+        //   const { style, icon, name, url } = social;
+          return (
+            <li >
+                {text}
+              {/* <a href={url} className={`icon ${style} ${icon}`}> */}
+                {/* <span className="label">{name}</span> */}
+              {/* </a> */}
+            </li>
+          );
+        })}
+      </ul>
+
         </header>
         <ul className="icons major">
           <li>
