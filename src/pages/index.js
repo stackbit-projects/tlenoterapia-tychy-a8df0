@@ -162,7 +162,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="icon fa-heart">
-            <h3>Aenean Primis</h3>
+            <h3>{config.zastosowania1}</h3>
             <p>
               Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
               tincidunt nullam amet leo Aenean ligula consequat consequat.
