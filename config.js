@@ -42,7 +42,8 @@ module.exports = {
   zastosowania5: 'Stomatologia',
   zastosowania55: 'Pomaga w leczeniu ran po zabiegach chirurgicznych, poprawia ukrwienie w uszkodzonej tkance, stymuluje proces gojenia oraz skraca czas rekonwalescencji.',
   zastosowania6: 'Medycyna sportowa',
-  zastosowania66: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.'
+  zastosowania66: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.',
+  
 
   // social
   socialLinks: [
