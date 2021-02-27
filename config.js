@@ -11,7 +11,7 @@ module.exports = {
   heading: 'Oxy-Rehab Tlenoterapia ',
   subHeading: 'Zapraszamy na sesje tlenowe w Tychach ',
   explore: 'Dowiedz się więcej ',
-  tekst1
+  tekst1:
     // social
   socialLinks: [
     {
