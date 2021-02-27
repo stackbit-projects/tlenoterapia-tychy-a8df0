@@ -125,7 +125,7 @@ const IndexPage = () => (
         {config.info44.map(text => {
         //   const { style, icon, name, url } = social;
           return (
-            <li key={url}>
+            <li >
               <a href={url} className={`icon ${style} ${icon}`}>
                 <span className="label">{name}</span>
               </a>
