@@ -39,7 +39,8 @@ module.exports = {
   zastosowania33: 'Terapia ma zastosowanie w leczeniu trądziku, łuszczycy, atopowego zapalenia skóry, egzemy oraz trądziku różowatego. Redukuje wszelkie ogniska zapalne.',
   zastosowania4: 'Neurologia',
   zastosowania44: 'Ma zastosowanie w porażeniach mózgowych i pourazowych uszkodzeniach mózgu, powstałych w wyniku udaru lub wylewu. Ożywia i pobudza uśpione komórki, podnosi koncentrację.',
-  zastosowania5: ''
+  zastosowania5: 'Stomatologia',
+  zastosowania55: ''
 
   // social
   socialLinks: [
