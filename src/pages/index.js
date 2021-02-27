@@ -229,14 +229,14 @@ const IndexPage = () => (
 								<input type="radio" id="demo-priority-high" name="demo-priority" />
 								<label htmlFor="demo-priority-high">High</label>
 							</div> */}
-							<div className="col-6 col-12-small">
+							{/* <div className="col-6 col-12-small">
 								<input type="checkbox" id="demo-copy" name="demo-copy" />
 								<label htmlFor="demo-copy">Email me a copy</label>
 							</div>
 							<div className="col-6 col-12-small">
 								<input type="checkbox" id="demo-human" name="demo-human" defaultChecked />
 								<label htmlFor="demo-human">Not a robot</label>
-							</div>
+							</div> */}
 							<div className="col-12">
 								<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 							</div>
