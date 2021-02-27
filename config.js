@@ -19,9 +19,9 @@ module.exports = {
   info3: 'Jak działa tlenoterapia?',
   info33: 'Terapia tlenowa ma wszechstronny, pozytywny wpływ na nasze samopoczucie psychiczne i fizyczne. Pozwala zachować na dłużej młodość, dobre zdrowie, aktywuje siły witalne i odpornościowe',
   info4: 'Korzystne działanie tlenoterapii' ,
-  info44:
-  info5:
-  info55:
+  info44: '',
+  info5: '',
+  info55: '',
   // social
   socialLinks: [
     {
