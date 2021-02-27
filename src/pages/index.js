@@ -44,9 +44,7 @@ const IndexPage = () => (
           return (
             <li >
                 {text}
-              {/* <a href={url} className={`icon ${style} ${icon}`}> */}
-                {/* <span className="label">{name}</span> */}
-              {/* </a> */}
+              
             </li>
           );
         })}
