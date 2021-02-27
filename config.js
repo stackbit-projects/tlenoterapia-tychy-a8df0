@@ -45,7 +45,8 @@ module.exports = {
   zastosowania66: 'Podnosi wydolność fizyczną, przyspiesza procesy regeneracji tkanki mięśniowej, ścięgien i więzadeł. Działa przeciwbólowo, wpływa na procesy naprawcze w tkance kostnej.',
   zastosowania7: 'Medycyna estetyczna',
   zastosowania77: 'Działa stymulująco na fibroblasty, odpowiedzialne za syntezę kolagenu i elastyny, czyli włókien zapewniających elastyczność skórze.',
-  zastosowania8: ''
+  zastosowania8: 'Onkologia',
+  za
 
   // social
   socialLinks: [
