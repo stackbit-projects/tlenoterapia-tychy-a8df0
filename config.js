@@ -47,7 +47,8 @@ module.exports = {
   zastosowania77: 'Działa stymulująco na fibroblasty, odpowiedzialne za syntezę kolagenu i elastyny, czyli włókien zapewniających elastyczność skórze.',
   zastosowania8: 'Onkologia',
   zastosowania88: 'Sprzyja rewitalizacji komórek i zapobiega dalszym uszkodzeniom. Oczyszcza organizm z toksyn i metali ciężkich, obniża poziom białka C-reaktywnego.',
-  zastosowania9: ''
+  zastosowania9: 'Gastrologia',
+  zast
 
   // social
   socialLinks: [
